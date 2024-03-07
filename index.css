@@ -1,0 +1,9 @@
+.body {
+    margin: 0;
+    display: flex;
+}
+
+.picture {
+    margin: 0 auto;
+    width: 1065px;
+}
